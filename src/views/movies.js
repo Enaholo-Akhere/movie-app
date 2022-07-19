@@ -138,7 +138,7 @@ const Movies = () => {
           </Box>
           <Box>
         <Box sx={{width: '80%', margin: 'auto'}} >
-            <Typography sx={{marginY: 3}}>Romantic Movie</Typography>
+            <Typography sx={{marginY: 3}}>Romantic Movies</Typography>
         </Box>
     
     <Container
